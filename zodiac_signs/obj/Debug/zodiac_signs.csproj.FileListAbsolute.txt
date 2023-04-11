@@ -1,0 +1,7 @@
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\bin\Debug\zodiac_signs.exe.config
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\bin\Debug\zodiac_signs.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\bin\Debug\zodiac_signs.pdb
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\obj\Debug\zodiac_signs.csproj.AssemblyReference.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\obj\Debug\zodiac_signs.csproj.CoreCompileInputs.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\obj\Debug\zodiac_signs.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\zodiac_signs\obj\Debug\zodiac_signs.pdb
