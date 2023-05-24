@@ -6,18 +6,16 @@ using System.Threading.Tasks;
 
 namespace zodiac_signs
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ВЫЧИСЛИТЕЛЬ ЗНАКА ЗОДИАКА ПО ДАТЕ РОЖДЕНИЯ");
-            Console.WriteLine("\nВведите день, затем нажмите Enter");
-            int day = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("\nВведите месяц (числом), затем нажмите Enter");
-            int month = Convert.ToInt32(Console.ReadLine());
-            if (((day < 1) || (day > 31)) || ((month < 1) || (month > 12)))
-                Console.WriteLine("\nТАКОЙ ДАТЫ НЕ СУЩЕСТВУЕТ");
-            else
+            Console.Title = "Вычислитель знака зодиака по дате рождения";
+            Console.Write("Введите день рождения:  ");
+            byte day = Convert.ToByte(Console.ReadLine());
+            Console.Write("Введите месяц рождения: ");
+            byte month = Convert.ToByte(Console.ReadLine());
+            if (day > 0 && day <= 31 && month > 0 && month <= 12)
             {
                 Console.Write("\nЗнак зодиака: ");
                 if (((day >= 21) & (month == 3)) || ((day <= 20) & (month == 4)))
@@ -66,18 +64,20 @@ namespace zodiac_signs
                                                         {
                                                             if (((day >= 19) & (month == 2)) || ((day <= 20) & (month == 3)))
                                                                 Console.WriteLine("Рыбы");
-                                                        };
-                                                    };
-                                                };
-                                            };
-                                        };
-                                    };
-                                };
-                            };
-                        };
-                    };
-                };
-            };
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            else
+                Console.WriteLine("\n!!!ТАКОЙ ДАТЫ НЕ СУЩЕСТВУЕТ!!!\n      Попробуйте ещё раз");
         }
     }
 }

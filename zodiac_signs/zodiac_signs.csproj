@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{647AFEEB-AE51-4661-8A36-35251ECA36EA}</ProjectGuid>
+    <ProjectGuid>{FC555405-FD81-4D7A-A826-3A6500427A8D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>zodiac_signs</RootNamespace>
     <AssemblyName>zodiac_signs</AssemblyName>
