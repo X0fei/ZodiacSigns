@@ -1,0 +1,7 @@
+C:\Users\prdb\Desktop\ZodiacSigns\bin\Debug\ZodiacSigns.exe.config
+C:\Users\prdb\Desktop\ZodiacSigns\bin\Debug\ZodiacSigns.exe
+C:\Users\prdb\Desktop\ZodiacSigns\bin\Debug\ZodiacSigns.pdb
+C:\Users\prdb\Desktop\ZodiacSigns\obj\Debug\ZodiacSigns.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\ZodiacSigns\obj\Debug\ZodiacSigns.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\ZodiacSigns\obj\Debug\ZodiacSigns.exe
+C:\Users\prdb\Desktop\ZodiacSigns\obj\Debug\ZodiacSigns.pdb
